@@ -1,4 +1,5 @@
 words = [
+    "ibra",
     "aback",
     "abaft",
     "abandoned",
